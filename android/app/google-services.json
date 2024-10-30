@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179851160880",
+    "project_id": "eventorganizerapp-f0cd0",
+    "storage_bucket": "eventorganizerapp-f0cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179851160880:android:ce6bc347dc2e071328acf5",
+        "android_client_info": {
+          "package_name": "com.example.event_organizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbCv-A7U7umHkph7x61Y5WKYEnj8hpJTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
